@@ -1,6 +1,6 @@
 A simple fuzzy search program using the hamming distance algorithm 
 
-Sample Code Run: 
+Sample code run: 
 <pre>
   <code>Enter Input String : hello
   Enter Possibilty : hell
